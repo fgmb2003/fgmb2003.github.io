@@ -17,10 +17,13 @@ html {
   font-size: 100%;
 }
 
-body {
-	background: $white;
+body {body {
+        background-image: url("https://static.pexels.com/photos/294560/pexels-photo-294560.jpeg");
+  background-repeat: no-repeat;
+  background-attachement: fixed;	
+  background-position: center;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #ffffff;
 }
 
 .container {
